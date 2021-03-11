@@ -1,0 +1,400 @@
+Eth no,Eth name,Age no.,Age bracket,Sex no,Sex,Total,percent of Total
+1,European,1,0-4 years,1,Male,99402,6.2
+1,European,2,5-9 years,1,Male,111273,6.9
+1,European,3,10-14 years,1,Male,107079,6.6
+1,European,4,15-19 years,1,Male,102975,6.4
+1,European,5,20-24 years,1,Male,100725,6.2
+1,European,6,25-29 years,1,Male,101847,6.3
+1,European,7,30-34 years,1,Male,90618,5.6
+1,European,8,35-39 years,1,Male,87399,5.4
+1,European,9,40-44 years,1,Male,95061,5.9
+1,European,10,45-49 years,1,Male,111093,6.9
+1,European,11,50-54 years,1,Male,110292,6.8
+1,European,12,55-59 years,1,Male,112884,7
+1,European,13,60-64 years,1,Male,99471,6.2
+1,European,14,65-69 years,1,Male,91359,5.7
+1,European,15,70-74 years,1,Male,76227,4.7
+1,European,16,75-79 years,1,Male,54012,3.3
+1,European,17,80-84 years,1,Male,33600,2.1
+1,European,18,85 years and over,1,Male,29487,1.8
+1,European,19,Total,1,Male,1614807,100
+1,European,1,0-4 years,2,Female,94728,5.6
+1,European,2,5-9 years,2,Female,105936,6.3
+1,European,3,10-14 years,2,Female,103134,6.1
+1,European,4,15-19 years,2,Female,99042,5.9
+1,European,5,20-24 years,2,Female,98310,5.8
+1,European,6,25-29 years,2,Female,103464,6.1
+1,European,7,30-34 years,2,Female,95433,5.7
+1,European,8,35-39 years,2,Female,93981,5.6
+1,European,9,40-44 years,2,Female,103380,6.1
+1,European,10,45-49 years,2,Female,119442,7.1
+1,European,11,50-54 years,2,Female,116052,6.9
+1,European,12,55-59 years,2,Female,118137,7
+1,European,13,60-64 years,2,Female,103548,6.2
+1,European,14,65-69 years,2,Female,95364,5.7
+1,European,15,70-74 years,2,Female,81021,4.8
+1,European,16,75-79 years,2,Female,61332,3.6
+1,European,17,80-84 years,2,Female,41844,2.5
+1,European,18,85 years and over,2,Female,48903,2.9
+1,European,19,Total,2,Female,1683054,100
+1,European,1,0-4 years,3,Total,194130,5.9
+1,European,2,5-9 years,3,Total,217206,6.6
+1,European,3,10-14 years,3,Total,210216,6.4
+1,European,4,15-19 years,3,Total,202020,6.1
+1,European,5,20-24 years,3,Total,199038,6
+1,European,6,25-29 years,3,Total,205311,6.2
+1,European,7,30-34 years,3,Total,186051,5.6
+1,European,8,35-39 years,3,Total,181380,5.5
+1,European,9,40-44 years,3,Total,198444,6
+1,European,10,45-49 years,3,Total,230535,7
+1,European,11,50-54 years,3,Total,226344,6.9
+1,European,12,55-59 years,3,Total,231024,7
+1,European,13,60-64 years,3,Total,203019,6.2
+1,European,14,65-69 years,3,Total,186723,5.7
+1,European,15,70-74 years,3,Total,157248,4.8
+1,European,16,75-79 years,3,Total,115341,3.5
+1,European,17,80-84 years,3,Total,75447,2.3
+1,European,18,85 years and over,3,Total,78390,2.4
+1,European,19,Total,3,Total,3297864,100
+2,Māori,1,0-4 years,1,Male,41640,10.9
+2,Māori,2,5-9 years,1,Male,45207,11.8
+2,Māori,3,10-14 years,1,Male,40890,10.7
+2,Māori,4,15-19 years,1,Male,36255,9.5
+2,Māori,5,20-24 years,1,Male,31593,8.2
+2,Māori,6,25-29 years,1,Male,28752,7.5
+2,Māori,7,30-34 years,1,Male,22650,5.9
+2,Māori,8,35-39 years,1,Male,20601,5.4
+2,Māori,9,40-44 years,1,Male,20535,5.4
+2,Māori,10,45-49 years,1,Male,21789,5.7
+2,Māori,11,50-54 years,1,Male,19983,5.2
+2,Māori,12,55-59 years,1,Male,17964,4.7
+2,Māori,13,60-64 years,1,Male,13104,3.4
+2,Māori,14,65-69 years,1,Male,9687,2.5
+2,Māori,15,70-74 years,1,Male,5904,1.5
+2,Māori,16,75-79 years,1,Male,3768,1
+2,Māori,17,80-84 years,1,Male,1761,0.5
+2,Māori,18,85 years and over,1,Male,933,0.2
+2,Māori,19,Total,1,Male,383019,100
+2,Māori,1,0-4 years,2,Female,39564,10.1
+2,Māori,2,5-9 years,2,Female,42612,10.8
+2,Māori,3,10-14 years,2,Female,38868,9.9
+2,Māori,4,15-19 years,2,Female,34821,8.9
+2,Māori,5,20-24 years,2,Female,31575,8
+2,Māori,6,25-29 years,2,Female,30150,7.7
+2,Māori,7,30-34 years,2,Female,24861,6.3
+2,Māori,8,35-39 years,2,Female,22368,5.7
+2,Māori,9,40-44 years,2,Female,22512,5.7
+2,Māori,10,45-49 years,2,Female,23742,6
+2,Māori,11,50-54 years,2,Female,21249,5.4
+2,Māori,12,55-59 years,2,Female,19788,5
+2,Māori,13,60-64 years,2,Female,14511,3.7
+2,Māori,14,65-69 years,2,Female,10692,2.7
+2,Māori,15,70-74 years,2,Female,6768,1.7
+2,Māori,16,75-79 years,2,Female,4452,1.1
+2,Māori,17,80-84 years,2,Female,2538,0.6
+2,Māori,18,85 years and over,2,Female,1749,0.4
+2,Māori,19,Total,2,Female,392820,100
+2,Māori,1,0-4 years,3,Total,81207,10.5
+2,Māori,2,5-9 years,3,Total,87822,11.3
+2,Māori,3,10-14 years,3,Total,79758,10.3
+2,Māori,4,15-19 years,3,Total,71079,9.2
+2,Māori,5,20-24 years,3,Total,63165,8.1
+2,Māori,6,25-29 years,3,Total,58902,7.6
+2,Māori,7,30-34 years,3,Total,47511,6.1
+2,Māori,8,35-39 years,3,Total,42969,5.5
+2,Māori,9,40-44 years,3,Total,43047,5.5
+2,Māori,10,45-49 years,3,Total,45531,5.9
+2,Māori,11,50-54 years,3,Total,41229,5.3
+2,Māori,12,55-59 years,3,Total,37755,4.9
+2,Māori,13,60-64 years,3,Total,27612,3.6
+2,Māori,14,65-69 years,3,Total,20382,2.6
+2,Māori,15,70-74 years,3,Total,12672,1.6
+2,Māori,16,75-79 years,3,Total,8223,1.1
+2,Māori,17,80-84 years,3,Total,4296,0.6
+2,Māori,18,85 years and over,3,Total,2682,0.3
+2,Māori,19,Total,3,Total,775836,100
+3,Pacific Peoples,1,0-4 years,1,Male,21810,11.4
+3,Pacific Peoples,2,5-9 years,1,Male,23496,12.3
+3,Pacific Peoples,3,10-14 years,1,Male,20646,10.8
+3,Pacific Peoples,4,15-19 years,1,Male,19296,10.1
+3,Pacific Peoples,5,20-24 years,1,Male,17319,9
+3,Pacific Peoples,6,25-29 years,1,Male,15312,8
+3,Pacific Peoples,7,30-34 years,1,Male,12183,6.4
+3,Pacific Peoples,8,35-39 years,1,Male,11013,5.8
+3,Pacific Peoples,9,40-44 years,1,Male,10089,5.3
+3,Pacific Peoples,10,45-49 years,1,Male,9846,5.1
+3,Pacific Peoples,11,50-54 years,1,Male,8901,4.7
+3,Pacific Peoples,12,55-59 years,1,Male,6897,3.6
+3,Pacific Peoples,13,60-64 years,1,Male,5358,2.8
+3,Pacific Peoples,14,65-69 years,1,Male,3942,2.1
+3,Pacific Peoples,15,70-74 years,1,Male,2517,1.3
+3,Pacific Peoples,16,75-79 years,1,Male,1572,0.8
+3,Pacific Peoples,17,80-84 years,1,Male,753,0.4
+3,Pacific Peoples,18,85 years and over,1,Male,435,0.2
+3,Pacific Peoples,19,Total,1,Male,191391,100
+3,Pacific Peoples,1,0-4 years,2,Female,20445,10.7
+3,Pacific Peoples,2,5-9 years,2,Female,22035,11.6
+3,Pacific Peoples,3,10-14 years,2,Female,19725,10.4
+3,Pacific Peoples,4,15-19 years,2,Female,18951,10
+3,Pacific Peoples,5,20-24 years,2,Female,17496,9.2
+3,Pacific Peoples,6,25-29 years,2,Female,15372,8.1
+3,Pacific Peoples,7,30-34 years,2,Female,12156,6.4
+3,Pacific Peoples,8,35-39 years,2,Female,10971,5.8
+3,Pacific Peoples,9,40-44 years,2,Female,10302,5.4
+3,Pacific Peoples,10,45-49 years,2,Female,9882,5.2
+3,Pacific Peoples,11,50-54 years,2,Female,9264,4.9
+3,Pacific Peoples,12,55-59 years,2,Female,7233,3.8
+3,Pacific Peoples,13,60-64 years,2,Female,5406,2.8
+3,Pacific Peoples,14,65-69 years,2,Female,4146,2.2
+3,Pacific Peoples,15,70-74 years,2,Female,2850,1.5
+3,Pacific Peoples,16,75-79 years,2,Female,1953,1
+3,Pacific Peoples,17,80-84 years,2,Female,1170,0.6
+3,Pacific Peoples,18,85 years and over,2,Female,891,0.5
+3,Pacific Peoples,19,Total,2,Female,190254,100
+3,Pacific Peoples,1,0-4 years,3,Total,42255,11.1
+3,Pacific Peoples,2,5-9 years,3,Total,45531,11.9
+3,Pacific Peoples,3,10-14 years,3,Total,40371,10.6
+3,Pacific Peoples,4,15-19 years,3,Total,38247,10
+3,Pacific Peoples,5,20-24 years,3,Total,34818,9.1
+3,Pacific Peoples,6,25-29 years,3,Total,30687,8
+3,Pacific Peoples,7,30-34 years,3,Total,24339,6.4
+3,Pacific Peoples,8,35-39 years,3,Total,21984,5.8
+3,Pacific Peoples,9,40-44 years,3,Total,20391,5.3
+3,Pacific Peoples,10,45-49 years,3,Total,19728,5.2
+3,Pacific Peoples,11,50-54 years,3,Total,18165,4.8
+3,Pacific Peoples,12,55-59 years,3,Total,14133,3.7
+3,Pacific Peoples,13,60-64 years,3,Total,10767,2.8
+3,Pacific Peoples,14,65-69 years,3,Total,8091,2.1
+3,Pacific Peoples,15,70-74 years,3,Total,5367,1.4
+3,Pacific Peoples,16,75-79 years,3,Total,3525,0.9
+3,Pacific Peoples,17,80-84 years,3,Total,1923,0.5
+3,Pacific Peoples,18,85 years and over,3,Total,1326,0.3
+3,Pacific Peoples,19,Total,3,Total,381642,100
+4,Asian,1,0-4 years,1,Male,27429,7.9
+4,Asian,2,5-9 years,1,Male,25176,7.2
+4,Asian,3,10-14 years,1,Male,21012,6
+4,Asian,4,15-19 years,1,Male,22407,6.4
+4,Asian,5,20-24 years,1,Male,34191,9.8
+4,Asian,6,25-29 years,1,Male,42279,12.1
+4,Asian,7,30-34 years,1,Male,38901,11.1
+4,Asian,8,35-39 years,1,Male,33087,9.5
+4,Asian,9,40-44 years,1,Male,22476,6.4
+4,Asian,10,45-49 years,1,Male,19101,5.5
+4,Asian,11,50-54 years,1,Male,16224,4.6
+4,Asian,12,55-59 years,1,Male,13572,3.9
+4,Asian,13,60-64 years,1,Male,11742,3.4
+4,Asian,14,65-69 years,1,Male,8904,2.6
+4,Asian,15,70-74 years,1,Male,5394,1.5
+4,Asian,16,75-79 years,1,Male,3537,1
+4,Asian,17,80-84 years,1,Male,2316,0.7
+4,Asian,18,85 years and over,1,Male,1203,0.3
+4,Asian,19,Total,1,Male,348948,100
+4,Asian,1,0-4 years,2,Female,26403,7.4
+4,Asian,2,5-9 years,2,Female,23979,6.7
+4,Asian,3,10-14 years,2,Female,19695,5.5
+4,Asian,4,15-19 years,2,Female,21534,6
+4,Asian,5,20-24 years,2,Female,28134,7.8
+4,Asian,6,25-29 years,2,Female,39693,11.1
+4,Asian,7,30-34 years,2,Female,41448,11.6
+4,Asian,8,35-39 years,2,Female,34419,9.6
+4,Asian,9,40-44 years,2,Female,25110,7
+4,Asian,10,45-49 years,2,Female,23292,6.5
+4,Asian,11,50-54 years,2,Female,19416,5.4
+4,Asian,12,55-59 years,2,Female,16737,4.7
+4,Asian,13,60-64 years,2,Female,14679,4.1
+4,Asian,14,65-69 years,2,Female,9930,2.8
+4,Asian,15,70-74 years,2,Female,5889,1.6
+4,Asian,16,75-79 years,2,Female,4149,1.2
+4,Asian,17,80-84 years,2,Female,2484,0.7
+4,Asian,18,85 years and over,2,Female,1653,0.5
+4,Asian,19,Total,2,Female,358650,100
+4,Asian,1,0-4 years,3,Total,53832,7.6
+4,Asian,2,5-9 years,3,Total,49155,6.9
+4,Asian,3,10-14 years,3,Total,40707,5.8
+4,Asian,4,15-19 years,3,Total,43938,6.2
+4,Asian,5,20-24 years,3,Total,62322,8.8
+4,Asian,6,25-29 years,3,Total,81972,11.6
+4,Asian,7,30-34 years,3,Total,80346,11.4
+4,Asian,8,35-39 years,3,Total,67509,9.5
+4,Asian,9,40-44 years,3,Total,47589,6.7
+4,Asian,10,45-49 years,3,Total,42396,6
+4,Asian,11,50-54 years,3,Total,35640,5
+4,Asian,12,55-59 years,3,Total,30309,4.3
+4,Asian,13,60-64 years,3,Total,26421,3.7
+4,Asian,14,65-69 years,3,Total,18837,2.7
+4,Asian,15,70-74 years,3,Total,11280,1.6
+4,Asian,16,75-79 years,3,Total,7686,1.1
+4,Asian,17,80-84 years,3,Total,4800,0.7
+4,Asian,18,85 years and over,3,Total,2859,0.4
+4,Asian,19,Total,3,Total,707598,100
+5,Middle Eastern/Latin American/African,1,0-4 years,1,Male,3306,9.3
+5,Middle Eastern/Latin American/African,2,5-9 years,1,Male,3027,8.5
+5,Middle Eastern/Latin American/African,3,10-14 years,1,Male,2535,7.1
+5,Middle Eastern/Latin American/African,4,15-19 years,1,Male,2394,6.7
+5,Middle Eastern/Latin American/African,5,20-24 years,1,Male,2619,7.3
+5,Middle Eastern/Latin American/African,6,25-29 years,1,Male,3822,10.7
+5,Middle Eastern/Latin American/African,7,30-34 years,1,Male,4287,12
+5,Middle Eastern/Latin American/African,8,35-39 years,1,Male,3777,10.6
+5,Middle Eastern/Latin American/African,9,40-44 years,1,Male,2616,7.3
+5,Middle Eastern/Latin American/African,10,45-49 years,1,Male,2121,5.9
+5,Middle Eastern/Latin American/African,11,50-54 years,1,Male,1677,4.7
+5,Middle Eastern/Latin American/African,12,55-59 years,1,Male,1248,3.5
+5,Middle Eastern/Latin American/African,13,60-64 years,1,Male,885,2.5
+5,Middle Eastern/Latin American/African,14,65-69 years,1,Male,606,1.7
+5,Middle Eastern/Latin American/African,15,70-74 years,1,Male,363,1
+5,Middle Eastern/Latin American/African,16,75-79 years,1,Male,198,0.6
+5,Middle Eastern/Latin American/African,17,80-84 years,1,Male,114,0.3
+5,Middle Eastern/Latin American/African,18,85 years and over,1,Male,81,0.2
+5,Middle Eastern/Latin American/African,19,Total,1,Male,35679,100
+5,Middle Eastern/Latin American/African,1,0-4 years,2,Female,3222,9.3
+5,Middle Eastern/Latin American/African,2,5-9 years,2,Female,2919,8.4
+5,Middle Eastern/Latin American/African,3,10-14 years,2,Female,2322,6.7
+5,Middle Eastern/Latin American/African,4,15-19 years,2,Female,2223,6.4
+5,Middle Eastern/Latin American/African,5,20-24 years,2,Female,2580,7.4
+5,Middle Eastern/Latin American/African,6,25-29 years,2,Female,3996,11.5
+5,Middle Eastern/Latin American/African,7,30-34 years,2,Female,4449,12.8
+5,Middle Eastern/Latin American/African,8,35-39 years,2,Female,3702,10.7
+5,Middle Eastern/Latin American/African,9,40-44 years,2,Female,2532,7.3
+5,Middle Eastern/Latin American/African,10,45-49 years,2,Female,1953,5.6
+5,Middle Eastern/Latin American/African,11,50-54 years,2,Female,1527,4.4
+5,Middle Eastern/Latin American/African,12,55-59 years,2,Female,1170,3.4
+5,Middle Eastern/Latin American/African,13,60-64 years,2,Female,786,2.3
+5,Middle Eastern/Latin American/African,14,65-69 years,2,Female,492,1.4
+5,Middle Eastern/Latin American/African,15,70-74 years,2,Female,327,0.9
+5,Middle Eastern/Latin American/African,16,75-79 years,2,Female,201,0.6
+5,Middle Eastern/Latin American/African,17,80-84 years,2,Female,150,0.4
+5,Middle Eastern/Latin American/African,18,85 years and over,2,Female,105,0.3
+5,Middle Eastern/Latin American/African,19,Total,2,Female,34653,100
+5,Middle Eastern/Latin American/African,1,0-4 years,3,Total,6528,9.3
+5,Middle Eastern/Latin American/African,2,5-9 years,3,Total,5946,8.5
+5,Middle Eastern/Latin American/African,3,10-14 years,3,Total,4860,6.9
+5,Middle Eastern/Latin American/African,4,15-19 years,3,Total,4620,6.6
+5,Middle Eastern/Latin American/African,5,20-24 years,3,Total,5199,7.4
+5,Middle Eastern/Latin American/African,6,25-29 years,3,Total,7818,11.1
+5,Middle Eastern/Latin American/African,7,30-34 years,3,Total,8736,12.4
+5,Middle Eastern/Latin American/African,8,35-39 years,3,Total,7476,10.6
+5,Middle Eastern/Latin American/African,9,40-44 years,3,Total,5148,7.3
+5,Middle Eastern/Latin American/African,10,45-49 years,3,Total,4077,5.8
+5,Middle Eastern/Latin American/African,11,50-54 years,3,Total,3204,4.6
+5,Middle Eastern/Latin American/African,12,55-59 years,3,Total,2418,3.4
+5,Middle Eastern/Latin American/African,13,60-64 years,3,Total,1674,2.4
+5,Middle Eastern/Latin American/African,14,65-69 years,3,Total,1101,1.6
+5,Middle Eastern/Latin American/African,15,70-74 years,3,Total,690,1
+5,Middle Eastern/Latin American/African,16,75-79 years,3,Total,402,0.6
+5,Middle Eastern/Latin American/African,17,80-84 years,3,Total,264,0.4
+5,Middle Eastern/Latin American/African,18,85 years and over,3,Total,183,0.3
+5,Middle Eastern/Latin American/African,19,Total,3,Total,70332,100
+6,Other Ethnicity,1,0-4 years,1,Male,1779,5.5
+6,Other Ethnicity,2,5-9 years,1,Male,2232,6.8
+6,Other Ethnicity,3,10-14 years,1,Male,2046,6.3
+6,Other Ethnicity,4,15-19 years,1,Male,1554,4.8
+6,Other Ethnicity,5,20-24 years,1,Male,1761,5.4
+6,Other Ethnicity,6,25-29 years,1,Male,2355,7.2
+6,Other Ethnicity,7,30-34 years,1,Male,2202,6.8
+6,Other Ethnicity,8,35-39 years,1,Male,2247,6.9
+6,Other Ethnicity,9,40-44 years,1,Male,2697,8.3
+6,Other Ethnicity,10,45-49 years,1,Male,3039,9.3
+6,Other Ethnicity,11,50-54 years,1,Male,2808,8.6
+6,Other Ethnicity,12,55-59 years,1,Male,2703,8.3
+6,Other Ethnicity,13,60-64 years,1,Male,1962,6
+6,Other Ethnicity,14,65-69 years,1,Male,1407,4.3
+6,Other Ethnicity,15,70-74 years,1,Male,939,2.9
+6,Other Ethnicity,16,75-79 years,1,Male,501,1.5
+6,Other Ethnicity,17,80-84 years,1,Male,240,0.7
+6,Other Ethnicity,18,85 years and over,1,Male,147,0.5
+6,Other Ethnicity,19,Total,1,Male,32619,100
+6,Other Ethnicity,1,0-4 years,2,Female,1644,6.5
+6,Other Ethnicity,2,5-9 years,2,Female,2046,8
+6,Other Ethnicity,3,10-14 years,2,Female,1860,7.3
+6,Other Ethnicity,4,15-19 years,2,Female,1320,5.2
+6,Other Ethnicity,5,20-24 years,2,Female,1281,5
+6,Other Ethnicity,6,25-29 years,2,Female,1641,6.5
+6,Other Ethnicity,7,30-34 years,2,Female,1590,6.3
+6,Other Ethnicity,8,35-39 years,2,Female,1572,6.2
+6,Other Ethnicity,9,40-44 years,2,Female,1812,7.1
+6,Other Ethnicity,10,45-49 years,2,Female,2181,8.6
+6,Other Ethnicity,11,50-54 years,2,Female,2169,8.5
+6,Other Ethnicity,12,55-59 years,2,Female,2094,8.2
+6,Other Ethnicity,13,60-64 years,2,Female,1455,5.7
+6,Other Ethnicity,14,65-69 years,2,Female,1059,4.2
+6,Other Ethnicity,15,70-74 years,2,Female,768,3
+6,Other Ethnicity,16,75-79 years,2,Female,471,1.9
+6,Other Ethnicity,17,80-84 years,2,Female,222,0.9
+6,Other Ethnicity,18,85 years and over,2,Female,240,0.9
+6,Other Ethnicity,19,Total,2,Female,25431,100
+6,Other Ethnicity,1,0-4 years,3,Total,3426,5.9
+6,Other Ethnicity,2,5-9 years,3,Total,4278,7.4
+6,Other Ethnicity,3,10-14 years,3,Total,3906,6.7
+6,Other Ethnicity,4,15-19 years,3,Total,2871,4.9
+6,Other Ethnicity,5,20-24 years,3,Total,3042,5.2
+6,Other Ethnicity,6,25-29 years,3,Total,3993,6.9
+6,Other Ethnicity,7,30-34 years,3,Total,3792,6.5
+6,Other Ethnicity,8,35-39 years,3,Total,3822,6.6
+6,Other Ethnicity,9,40-44 years,3,Total,4506,7.8
+6,Other Ethnicity,10,45-49 years,3,Total,5223,9
+6,Other Ethnicity,11,50-54 years,3,Total,4980,8.6
+6,Other Ethnicity,12,55-59 years,3,Total,4797,8.3
+6,Other Ethnicity,13,60-64 years,3,Total,3420,5.9
+6,Other Ethnicity,14,65-69 years,3,Total,2469,4.3
+6,Other Ethnicity,15,70-74 years,3,Total,1707,2.9
+6,Other Ethnicity,16,75-79 years,3,Total,975,1.7
+6,Other Ethnicity,17,80-84 years,3,Total,462,0.8
+6,Other Ethnicity,18,85 years and over,3,Total,387,0.7
+6,Other Ethnicity,19,Total,3,Total,58053,100
+7,Total,1,0-4 years,1,Male,151269,6.5
+7,Total,2,5-9 years,1,Male,165780,7.1
+7,Total,3,10-14 years,1,Male,156405,6.7
+7,Total,4,15-19 years,1,Male,154209,6.6
+7,Total,5,20-24 years,1,Male,163731,7.1
+7,Total,6,25-29 years,1,Male,173706,7.5
+7,Total,7,30-34 years,1,Male,155532,6.7
+7,Total,8,35-39 years,1,Male,144657,6.2
+7,Total,9,40-44 years,1,Male,140997,6.1
+7,Total,10,45-49 years,1,Male,155388,6.7
+7,Total,11,50-54 years,1,Male,150456,6.5
+7,Total,12,55-59 years,1,Male,147408,6.4
+7,Total,13,60-64 years,1,Male,127092,5.5
+7,Total,14,65-69 years,1,Male,112089,4.8
+7,Total,15,70-74 years,1,Male,88935,3.8
+7,Total,16,75-79 years,1,Male,62106,2.7
+7,Total,17,80-84 years,1,Male,38043,1.6
+7,Total,18,85 years and over,1,Male,31752,1.4
+7,Total,19,Total,1,Male,2319558,100
+7,Total,1,0-4 years,2,Female,143652,6
+7,Total,2,5-9 years,2,Female,156852,6.6
+7,Total,3,10-14 years,2,Female,149442,6.3
+7,Total,4,15-19 years,2,Female,147615,6.2
+7,Total,5,20-24 years,2,Female,153672,6.5
+7,Total,6,25-29 years,2,Female,170760,7.2
+7,Total,7,30-34 years,2,Female,161502,6.8
+7,Total,8,35-39 years,2,Female,150738,6.3
+7,Total,9,40-44 years,2,Female,150348,6.3
+7,Total,10,45-49 years,2,Female,166095,7
+7,Total,11,50-54 years,2,Female,158133,6.6
+7,Total,12,55-59 years,2,Female,155340,6.5
+7,Total,13,60-64 years,2,Female,133809,5.6
+7,Total,14,65-69 years,2,Female,116943,4.9
+7,Total,15,70-74 years,2,Female,94698,4
+7,Total,16,75-79 years,2,Female,70686,3
+7,Total,17,80-84 years,2,Female,47319,2
+7,Total,18,85 years and over,2,Female,52596,2.2
+7,Total,19,Total,2,Female,2380197,100
+7,Total,1,0-4 years,3,Total,294921,6.3
+7,Total,2,5-9 years,3,Total,322635,6.9
+7,Total,3,10-14 years,3,Total,305847,6.5
+7,Total,4,15-19 years,3,Total,301824,6.4
+7,Total,5,20-24 years,3,Total,317403,6.8
+7,Total,6,25-29 years,3,Total,344463,7.3
+7,Total,7,30-34 years,3,Total,317037,6.7
+7,Total,8,35-39 years,3,Total,295395,6.3
+7,Total,9,40-44 years,3,Total,291348,6.2
+7,Total,10,45-49 years,3,Total,321483,6.8
+7,Total,11,50-54 years,3,Total,308592,6.6
+7,Total,12,55-59 years,3,Total,302745,6.4
+7,Total,13,60-64 years,3,Total,260901,5.6
+7,Total,14,65-69 years,3,Total,229032,4.9
+7,Total,15,70-74 years,3,Total,183633,3.9
+7,Total,16,75-79 years,3,Total,132792,2.8
+7,Total,17,80-84 years,3,Total,85362,1.8
+7,Total,18,85 years and over,3,Total,84351,1.8
+7,Total,19,Total,3,Total,4699755,100

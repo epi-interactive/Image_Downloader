@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+}
+
+a[id*="export_image_download"] {
+    float: right;
+}
+
+.watermark-date{
+    color: #AEC6E9;
+    display: inline-block;
+}
+.watermark img{
+  height: 12px;
+  padding-right: 5px;
+  margin-top: 4px;
+  display: inline-block;
+  
+}
+
+#epidemix_logo_watermark {
+    height: 22px;
+}
+
+.optgroup-header {
+  display: none;
+}
