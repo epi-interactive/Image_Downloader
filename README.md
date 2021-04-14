@@ -82,7 +82,7 @@ getPlot <- function(data, width, height){
 }
 ```
 
-Put image together and write out to download function, the stack option casues the elements to be placed vertically instead of horizontally.
+Put image together and write out to download function, the stack option causes the elements to be placed vertically instead of horizontally.
 ```r
 side_by_side = image_append(allCompenents, stack=T)
     
