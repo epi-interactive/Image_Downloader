@@ -1,3 +1,20 @@
+#
+# Code developed by Epi-interactive (www.epi-interactive.com)
+# CLIENT: The client
+# PROJECT: The project
+# DATE: 13-04-2021
+#
+# Code users agree to appropriately acknowledge the code developer using the following citation: Code developed by Epi-interactive (www.epi-interactive.com) for The client for The project, 13-04-2021.
+# Restrictions regarding sharing and distributing the code of this project may apply, please contact Epi-interactive for clarification or consult our Services Agreement (if provided as part of the contract).
+# Restrictions may include:
+#  - the distribution of any source codes, header files, make files, or libraries of the software.
+#  - any merging, compiling, or copying of the software. 
+#  - alteration or removal of any notices in or on the software or within the documentation included within the software.
+#  - any distribution of the software that is not conducted with approval from Epi-interactive.
+#  - disclosure of any source codes pertaining to the software to third parties not included in this agreement.
+#
+#
+
 library(shiny)
 library(shinyjs)
 library(plotly)
@@ -10,12 +27,15 @@ source("resources.R")
 
 censusData <- read.csv("www/census-data.csv", encoding = "UTF-8")
 
-#ns <- session$ns
-
 ui <- fluidPage(
-    tags$head(tags$link(rel = "stylesheet", type = "text/css", href = "css/download.css")),
+    tags$head(
+        tags$link(rel = "stylesheet", type = "text/css", href = "css/download.css"),
+        tags$link(rel = "stylesheet", type = "text/css", href = "css/nprogress.css"),
+        tags$script(src = "js/main.js"),
+        tags$script(src = "js/nprogress.js")
+        ),
     titlePanel("Image Extractor"),
-    sidebarLayout(position = "right",
+    sidebarLayout(position = "left",
                   sidebarPanel(
                       fluidRow(
                           selectInput("ethnicity", label = h3("Ethnicity"),
@@ -67,3 +87,7 @@ server <- function(input, output) {
 }
 
 shinyApp(ui, server)
+
+
+
+

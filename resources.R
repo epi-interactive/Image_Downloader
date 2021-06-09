@@ -1,3 +1,20 @@
+#
+# Code developed by Epi-interactive (www.epi-interactive.com)
+# CLIENT: The client
+# PROJECT: The project
+# DATE: 13-04-2021
+#
+# Code users agree to appropriately acknowledge the code developer using the following citation: Code developed by Epi-interactive (www.epi-interactive.com) for The client for The project, 13-04-2021.
+# Restrictions regarding sharing and distributing the code of this project may apply, please contact Epi-interactive for clarification or consult our Services Agreement (if provided as part of the contract).
+# Restrictions may include:
+#  - the distribution of any source codes, header files, make files, or libraries of the software.
+#  - any merging, compiling, or copying of the software. 
+#  - alteration or removal of any notices in or on the software or within the documentation included within the software.
+#  - any distribution of the software that is not conducted with approval from Epi-interactive.
+#  - disclosure of any source codes pertaining to the software to third parties not included in this agreement.
+#
+#
+
 g_getDownloadIcon <- list(icon("image", lib = "font-awesome"),"Export PNG")
 
 getIncidenceChartData <- function(toggle){
@@ -57,3 +74,7 @@ g_getImageDownloader <- function(data, file, title ="", width=800, height=450){
     
     image_write(side_by_side, file, format = "png")
 }
+
+
+
+
