@@ -39,7 +39,7 @@ g_getImageDownloader <- function(data, file, title ="", width=800, height=450){
         div(p(class="img-download-chart-heading", tags$span(title)))
     )
     
-    imgPath <- paste0("file:///",getwd(),"/www/images/Epi_logo.png")
+    imgPath <- paste0(getwd(),"/www/images/Epi_logo.png")
     
     date <- tagList(
         includeCSS(cssPath),
