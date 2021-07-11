@@ -1,7 +1,7 @@
 # Image Extractor
 Sometimes you will want to control the images users take of your graphs. This can be beneficial if you would like to include information on the subject of the graph, append a legend or include watermarks/logos etc. This image extractor example provides the ability to customise the output of graph screenshots.
 
-You can try out the app [here](https://rshiny.epi-interactive.com/apps/image_downloader/)
+You can try out the app <a href = "https://rshiny.epi-interactive.com/apps/image_downloader/" target = "_blank">here</a>
 
 
 # How it works
