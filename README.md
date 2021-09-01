@@ -4,7 +4,7 @@ Sometimes you will want to control the images users take of your graphs. This ca
 You can try out the app <a href = "https://rshiny.epi-interactive.com/apps/image_downloader/" target = "_blank">here</a>
 
 
-# How it works
+## How it works
 Add in the download anchor for the graph.
 ```r
 mainPanel(
@@ -97,3 +97,14 @@ a[id*="_export_image_download"] {
 ```
 
 *Data obtained from [Stats NZ.](https://www.stats.govt.nz/tools/2018-census-place-summaries/new-zealand#more-data-and-information)*
+
+
+
+
+---
+
+Code created by [Epi-interactive](https://www.epi-interactive.com) 
+
+As always, our expert team is here to help if you want custom training, would like to take your dashboards to the next level or just need an urgent fix to keep things running. Just get in touch for a chat.
+
+[https://www.epi-interactive.com/contact](https://www.epi-interactive.com/contact)
