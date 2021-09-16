@@ -47,7 +47,7 @@ logo <- image_read("www/images/Epi_logo.png")
 
 imgPath <- paste0("file:///",getwd(),"/www/images/Epi_logo.png")
 
-date <- tagList(
+footer <- tagList(
     includeCSS(cssPath),
     div(class ="watermark",style="float: left;",
         div(class="watermark-date", span("Epi-interactive")),
@@ -56,16 +56,20 @@ date <- tagList(
     div(class ="watermark", style="float: right;",
         div(class="watermark-date", strftime(Sys.Date(), "%d/%m/%Y", tz = "Pacific/Auckland"))
     ))
+
+ header <- saveComponent(header, "header", width)
+ footer <- saveComponent(footer, "footer", width)
+```
+
+```r
+saveComponent <- function(component, fileName, width){
+    pngName <- paste0(fileName,".png")
+    htmlName <- paste0(fileName,".html")
     
-
-
- save_html(header, "header.html")
-    webshot("header.html", "header.png", vwidth =width, vheight =20)
-    footer <- image_read("header.png")
-
-    save_html(date, "date.html")
-    webshot("date.html", "date.png", vwidth =width, vheight =20)
-    footer <- image_read("date.png")
+    save_html(component, htmlName)
+    webshot(htmlName, pngName, vwidth =width, vheight =20)
+    image_read(pngName)
+}
 ```
 
 Get image components in the order you want them appended to one another.
@@ -84,9 +88,9 @@ getPlot <- function(data, width, height){
 
 Put image together and write out to download function, the stack option causes the elements to be placed vertically instead of horizontally.
 ```r
-side_by_side = image_append(allCompenents, stack=T)
+allComponents = image_append(allCompenents, stack=T)
     
-image_write(side_by_side, file, format = "png")
+image_write(allComponents, file, format = "png")
 ```
 
 This CSS selector allows you to control the placement of all of your image download buttons.
