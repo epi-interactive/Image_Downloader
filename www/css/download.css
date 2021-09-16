@@ -45,6 +45,10 @@ a[id*="export_image_download"] {
   display: none;
 }
 
+.img-download-chart-heading{
+  font-size:20px;
+  font-weight: bold;
+}
 
 
 
